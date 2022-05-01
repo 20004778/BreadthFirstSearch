@@ -4,7 +4,7 @@
 To develop an algorithm to find the route from the source to the destination point using breadth-first search.
 
 ## THEORY
-Explain the problem statement
+Breadth-first search, also known as BFS, finds shortest paths from a given source vertex to all other vertices, in terms of the number of edges in the paths.
 
 ## DESIGN STEPS
 
@@ -14,7 +14,14 @@ Identify a location in the google map:
 ### STEP 2:
 Select a specific number of nodes with distance
 
-### STEP -> Write your own steps:
+### STEP 3:
+Import required packages.
+
+### STEP 4:
+Include each node and its distance separately in the dictionary data structure.
+
+### STEP 5:
+End of program.
 
 
 ## ROUTE MAP
@@ -179,6 +186,7 @@ print("Total Distance={0} Kilometers".format(goal_state_path.path_cost))
 
 
 ## SOLUTION JUSTIFICATION:
+Route follow the minimum distance between locations using breadth-first search.
 
 ## RESULT:
 Thus an algorithm to find the route from the source to the destination point using breadth-first search is developed and executed successfully.
