@@ -1,6 +1,7 @@
-# Breadth First Search
+## EXP : 02
+## Date : 28.04.2022
+# <p align="center">Breadth First Search</p>
 ## AIM
-
 To develop an algorithm to find the route from the source to the destination point using breadth-first search.
 
 ## THEORY
@@ -31,8 +32,8 @@ End of program.
 
 ## PROGRAM
 ```python
-Student name : SURYA R
-Reg.no : 212220230052
+Developed by : SURYA R
+Register no : 212220230052
  ```
  ```python
  %matplotlib inline
